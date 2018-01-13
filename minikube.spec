@@ -8,6 +8,7 @@ URL:           https://github.com/kubernetes/minikube
 License:       ASL 2.0
 Source0:       https://storage.googleapis.com/minikube/releases/v%{version}/%{name}-linux-amd64
 ExclusiveArch: x86_64
+Requires: kubernetes-client
 
 %description
  Minikube is a tool that makes it easy to run Kubernetes locally.
