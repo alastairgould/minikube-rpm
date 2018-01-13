@@ -1,0 +1,1 @@
+<a href="https://copr.fedorainfracloud.org/coprs/agould/minikube/package/minikube/"><img src="https://copr.fedorainfracloud.org/coprs/agould/minikube/package/minikube/status_image/last_build.png" /></a>
