@@ -3,7 +3,7 @@
 A rpm spec file allowing the creation of a minikube rpm package for 
 fedora linux.
 
-See [https://copr.fedorainfracloud.org/coprs/agould/minikube/] for the 
+See https://copr.fedorainfracloud.org/coprs/agould/minikube/ for the 
 resulting package.
 
 ## Package Status
