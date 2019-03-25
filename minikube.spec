@@ -1,5 +1,5 @@
 Name:          minikube
-Version:       0.31.0
+Version:       0.35.0
 Release:       1%{?dist}
 Summary:       Run Kubernetes locally
 
